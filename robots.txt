@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /.htpasswd
+Disallow: /.htaccess
+Sitemap: https://www.khensue.com/sitemap.xml
